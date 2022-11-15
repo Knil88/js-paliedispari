@@ -9,10 +9,11 @@ function sommapariDispari(num1,num2){
         console.log("il numero",num1,"è pari");
     
     } 
+    
     else{
         let dispari = num1;
     
-        console.log("il numero",pcnum,"è dispari");
+        console.log("il numero",num1,"è dispari");
     }
     if(num2 % 2 === 0){
     
