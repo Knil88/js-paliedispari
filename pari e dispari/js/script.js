@@ -10,7 +10,8 @@ let pcnum = Math.floor(Math.random()* 5) + 1;
 
 // impostiamo un alert se il numero supera il valore 5
 if(usernum > 5){
-    alert ("Ti ho detto da 1 a 5 Coglione");
+    alert ("Ti ho detto da 1 a 5 ");
+    
     console.log("Ti ho detto da 1 a 5 Coglione");
 }
 
